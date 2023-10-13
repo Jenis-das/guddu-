@@ -14,3 +14,5 @@ create repositry next
 ----- git checkout -b - to create new branch
 ----- git checkout branchname - to go to that branch
 ----- git branch -d barnchname - delete to branch
+----- git reset - to go to prvious version for all files
+----- git reset filename - to go to previous version of a single file
