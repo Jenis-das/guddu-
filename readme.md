@@ -11,3 +11,6 @@ create repositry next
 ----- git branch - to know which branch we are 
 ----- git branch -m - to change tha branch name 
 ----- git push origin main(branch_name)
+----- git checkout -b - to create new branch
+----- git checkout branchname - to go to that branch
+----- git branch -d barnchname - delete to branch
